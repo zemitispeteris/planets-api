@@ -23,9 +23,12 @@ module.exports = [
     radius: '2,439.7 KM',
     temperature: '430°c',
     images: {
-      planet: '/assets/planet-mercury.svg',
-      internal: '/assets/planet-mercury-internal.svg',
-      geology: '/assets/geology-mercury.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-mercury.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-mercury-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-mercury.png',
     },
   },
   {
@@ -51,9 +54,12 @@ module.exports = [
     radius: '6,051.8 KM',
     temperature: '471°c',
     images: {
-      planet: '../../assets/planet-venus.svg',
-      internal: '../../assets/planet-venus-internal.svg',
-      geology: '../../assets/geology-venus.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-venus.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-venus-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-venus.png',
     },
   },
   {
@@ -79,9 +85,12 @@ module.exports = [
     radius: '6,371 KM',
     temperature: '16°c',
     images: {
-      planet: '/assets/planet-earth.svg',
-      internal: '/assets/planet-earth-internal.svg',
-      geology: '/assets/geology-earth.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-earth.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-earth-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-earth.png',
     },
   },
   {
@@ -107,9 +116,12 @@ module.exports = [
     radius: '3,389.5 KM',
     temperature: '-28°c',
     images: {
-      planet: '/assets/planet-mars.svg',
-      internal: '/assets/planet-mars-internal.svg',
-      geology: '/assets/geology-mars.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-mars.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-mars-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-mars.png',
     },
   },
   {
@@ -136,9 +148,12 @@ module.exports = [
     radius: '69,911 KM',
     temperature: '-108°c',
     images: {
-      planet: '/assets/planet-jupiter.svg',
-      internal: '/assets/planet-jupiter-internal.svg',
-      geology: '/assets/geology-jupiter.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-jupiter.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-jupiter-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-jupiter.png',
     },
   },
   {
@@ -164,9 +179,12 @@ module.exports = [
     radius: '58,232 KM',
     temperature: '-138°c',
     images: {
-      planet: '/assets/planet-saturn.svg',
-      internal: '/assets/planet-saturn-internal.svg',
-      geology: '/assets/geology-saturn.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-saturn.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-saturn-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-saturn.png',
     },
   },
   {
@@ -192,9 +210,12 @@ module.exports = [
     radius: '25,362 KM',
     temperature: '-195°c',
     images: {
-      planet: '/assets/planet-uranus.svg',
-      internal: '/assets/planet-uranus-internal.svg',
-      geology: '/assets/geology-uranus.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-uranus.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-uranus-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-uranus.png',
     },
   },
   {
@@ -220,9 +241,12 @@ module.exports = [
     radius: '24,622 KM',
     temperature: '-201°c',
     images: {
-      planet: '/assets/planet-neptune.svg',
-      internal: '/assets/planet-neptune-internal.svg',
-      geology: '/assets/geology-neptune.png',
+      planet:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-neptune.svg',
+      internal:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-neptune-internal.svg',
+      geology:
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/geology-neptune.png',
     },
   },
 ];
