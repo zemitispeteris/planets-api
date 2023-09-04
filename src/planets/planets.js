@@ -24,8 +24,7 @@ module.exports = [
     temperature: '430°c',
     images: {
       planet:
-        // 'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-mercury.svg',
-        '../../assets/images/planet-mercury.svg',
+        'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-mercury.svg',
       internal:
         'https://raw.githubusercontent.com/gvinianidzegivi/planets-api/main/assets/images/planet-mercury-internal.svg',
       geology:
